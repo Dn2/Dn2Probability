@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Dn2Probability",
+	"Description": "Blueprint and C++ Runtime Probability plugin based on twitter.com/FadrikAlexander's Unity probability system/tutorial",
+	"Category": "Other",
+	"CreatedBy": "Dane Nurse",
+	"CreatedByURL": "https://dn2.github.io/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://twitter.com/DaneNurse",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Dn2Probability",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
